@@ -12,7 +12,7 @@ $ git clone https://github.com/Whomrx666/X-brute
 $ cd X-brute
 $ chmod +x *
 $ bash setup.sh or ./setup.sh
-$ python brutex.py or python3 X-brute.py
+$ python X-brute.py or python3 X-brute.py
 ```
 ## Instructions
 - **First**: Choose the number that is synonymous with the account to be hacked
