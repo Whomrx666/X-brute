@@ -31,23 +31,23 @@ This is a tool for education only, I am not responsible for any misuse
 <a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
 # Available platforms
-| Sosial media |  |
+| Sosial media | 🌐 |
 |--------|--------|
-| **Facebook** | |
-| **Instagram** | |
-| **Tiktok** | |
-| **Reddit** | |
-| **Snapchat** | |
-| **LinkedIn** | |
-| **Pinterest** | |
-| **Discord** | |
-| **Steam** | |
-| **GitHub** | |
-| **GitLab** | |
-| **VK (VKontakte)** | |
-| **OK.ru** | |
-| **X (Twitter)** | |
-| **Gmail (via IMAP)** | |
+| **Facebook** |✅ |
+| **Instagram** |✅ |
+| **Tiktok** |✅ |
+| **Reddit** |✅ |
+| **Snapchat** |✅ |
+| **LinkedIn** |✅ |
+| **Pinterest** |✅ |
+| **Discord** |✅ |
+| **Steam** |✅ |
+| **GitHub** |✅ |
+| **GitLab** |✅ |
+| **VK (VKontakte)** |✅ |
+| **OK.ru** |✅ |
+| **X (Twitter)** |✅ |
+| **Gmail (via IMAP)** |✅ |
 ---------
 
 ## CONNECT WITH ME :
