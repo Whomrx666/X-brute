@@ -35,8 +35,7 @@ This is a tool for education only, I am not responsible for any misuse
 |--------|--------|
 | **Facebook** |✅|
 | **Instagram** |✅|
-| **Tiktok** |
-✅|
+| **Tiktok** |✅|
 | **Reddit** |✅|
 | **Snapchat** |✅|
 | **LinkedIn** |✅|
