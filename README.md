@@ -8,7 +8,7 @@ X-brute is a tool designed to perform brute force using auto tor to trick the sy
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install git -y
-$ git clone https://github.com/Whomrx666/X-brute
+$ git clone https://github.com/Whomrx666/X-brute.git
 $ cd X-brute
 $ python install.py
 ```
