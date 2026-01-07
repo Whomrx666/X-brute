@@ -33,21 +33,22 @@ This is a tool for education only, I am not responsible for any misuse
 # Available platforms
 | Sosial media | 🌐 |
 |--------|--------|
-| **Facebook** |✅ |
-| **Instagram** |✅ |
-| **Tiktok** |✅ |
-| **Reddit** |✅ |
-| **Snapchat** |✅ |
-| **LinkedIn** |✅ |
-| **Pinterest** |✅ |
-| **Discord** |✅ |
-| **Steam** |✅ |
-| **GitHub** |✅ |
-| **GitLab** |✅ |
-| **VK (VKontakte)** |✅ |
-| **OK.ru** |✅ |
-| **X (Twitter)** |✅ |
-| **Gmail (via IMAP)** |✅ |
+| **Facebook** |✅|
+| **Instagram** |✅|
+| **Tiktok** |
+✅|
+| **Reddit** |✅|
+| **Snapchat** |✅|
+| **LinkedIn** |✅|
+| **Pinterest** |✅|
+| **Discord** |✅|
+| **Steam** |✅|
+| **GitHub** |✅|
+| **GitLab** |✅|
+| **VK (VKontakte)** |✅|
+| **OK.ru** |✅|
+| **X (Twitter)** |✅|
+| **Gmail (via IMAP)** |✅|
 ---------
 
 ## CONNECT WITH ME :
